@@ -16,7 +16,7 @@
 `run.sh "+"`
 
 **Configure notification in run.sh:**  
-`notification=true|false` 
+`notification=true||false` 
 
 Used:
 https://specifications.freedesktop.org/mpris-spec/2.2/Player_Interface.html
